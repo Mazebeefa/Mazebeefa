@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mazebeefa
+- 👀 I’m interested in learing how to code.
+- 🌱 I’m currently learning Python but would love to learn other languages.
+- 📫 I can be contacted on Discord at mazebeefa#7911
